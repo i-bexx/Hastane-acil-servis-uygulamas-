@@ -1,5 +1,7 @@
 # Hastane-acil-servis-uygulaması-
 
+Proje Analiz Dökümanı:
+
 1. Projenin Tanımı
 Bu proje, hastanelerde acil servis hasta yönetimini sağlayan bir sistemdir. Hastaların kayıtlarını HL7 standardına uygun olarak saklar ve öncelik sırasına göre işlemlerini yürütür.
 
